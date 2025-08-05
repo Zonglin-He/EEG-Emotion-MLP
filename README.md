@@ -32,9 +32,6 @@ This repository provides a PyTorch implementation of a multilayer perceptron (ML
 ├── README.md
 └── LICENSE
 
-yaml
-复制
-编辑
 
 ---
 
@@ -112,9 +109,6 @@ year = {2025},
 url = {https://github.com/yourusername/EEG-Emotion-MLP}
 }
 
-yaml
-复制
-编辑
 
 ---
 
